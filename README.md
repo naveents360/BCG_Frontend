@@ -8,4 +8,4 @@ Concepts used in the project are
 
 use `npm install` to install dependency Packages.
 
-npm start to start the project
+`npm start` to start the project
